@@ -1,0 +1,14 @@
+.DS_Store
+Thumbs.db
+ehthumbs.db
+$RECYCLE.BIN/
+._*
+/\.
+
+node_modules/
+bower_components/
+*.log
+
+build/
+dist/
+tmp/
